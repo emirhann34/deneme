@@ -1,0 +1,11 @@
+{
+  "trabzon": [
+    {
+      "isim": "BOZTEPE",
+      "aciklama": "Boztepe, Türkiye'nin Karadeniz bölgesinde, Trabzon şehir merkezinin hemen üstünde yer alan ve şehre yüksek bir noktadan muhteşem bir manzara sunan bir tepedir. Trabzon'un sembolü haline gelmiş olan Boztepe, deniz seviyesinden yaklaşık 700 metre yükseklikte konumlanmıştır.",
+      "fotourl": "https://example.com/image1.jpg"
+    },
+    
+    // Diğer öğeler buraya eklenebilir
+  ]
+}
